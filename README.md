@@ -2,6 +2,8 @@
 
 My solution to a recruitment task given to me by an undisclosed company. Could be possibly optimised further using Unity's DOTS system, but I figured this out way too late during implementation.
 
+Made with Unity 2021.3.13f1
+
 # Task Requirements
 
 A grid of 2D slots
